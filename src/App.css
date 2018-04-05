@@ -37,6 +37,21 @@ h1 {
 }
 
 
+#list {
+    
+   display:inline-block;
+    
+   height:200px;
+    
+   width:40%;
+    
+   background:grey;
+    
+   color:black;
+    
+   margin: 20px;
+}
+
 
 
 
